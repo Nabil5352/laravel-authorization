@@ -1,10 +1,10 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "AUTHORIZER",
     "keywords": [
-        "framework",
-        "laravel"
+        "authorization",
+        "policies"
     ],
     "license": "MIT",
     "require": {
